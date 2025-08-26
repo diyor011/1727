@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "Och qoldingizmi?",
+    "subtitle": "Bir necha bosish orqali yaqin atrofdagi taomlarni toping",
+    "delivery": "Yetkazib berish",
+    "pickup": "Olib ketish",
+    "findFood": "Taom topish",
+    "addressPlaceholder": "Manzilingizni kiriting"
+  },
+  "card": {
+    "title": "Greys Vage",
+    "remaining": "Yana {{count}} kun qoldi"
+  },
+  "howItWorks": {
+    "title": "Qanday ishlaydi",
+    "steps": {
+      "select": {
+        "title": "Joyni tanlang",
+        "desc": "Taom yetkaziladigan joyni tanlang."
+      },
+      "order": {
+        "title": "Buyurtmani tanlang",
+        "desc": "Yuzlab menyulardan sevimli taomingizni tanlang."
+      },
+      "pay": {
+        "title": "Oldindan to'lang",
+        "desc": "Bu tez, xavfsiz va oson. To‘lov usullarini tanlang."
+      },
+      "enjoy": {
+        "title": "Taomdan bahra oling",
+        "desc": "Taom tayyorlanadi va uyingizgacha yetkaziladi."
+      }
+    }
+  },
+  "popularItems": {
+    "title": "Mashhur taomlar",
+    "orderNow": "Buyurtma berish"
+  },
+  "searchByFood": {
+    "title": "Taom bo‘yicha qidiruv",
+    "categories": {
+      "pizza": "Pizza",
+      "burger": "Burger",
+      "noodles": "Noodles",
+      "sub": "Sub-sandwich",
+      "chowmein": "Chowmein",
+      "steak": "Steak"
+    }
+  },
+  "features": {
+    "daily": "Kundalik chegirmalar",
+    "live": "Jonli kuzatuv",
+    "quick": "Tez yetkazib berish"
+  },
+  "deals": {
+    "crispy": {
+      "title": "Eng yaxshi takliflar — Qarsildoq sendvichlar",
+      "desc": "Katta o‘lchamdagi sendvichlardan rohatlaning. Mukammal bo‘laklar."
+    },
+    "chicken": {
+      "title": "Bayramlaringizni qovurilgan tovuq bilan nishonlang",
+      "desc": "Limonli achchiq ta'mdagi qovurilgan tovuqni tatib ko‘ring. Eng yaxshi takliflarni o‘tkazib yubormang."
+    },
+    "button": "Buyurtmaga o‘tish"
+  },
+  "footer": {
+    "company": "Kompaniya",
+    "contact": "Aloqa",
+    "legal": "Yuridik",
+    "fields": {
+      "about": "Biz haqimizda",
+      "team": "Jamoa",
+      "careers": "Karyera",
+      "blog": "Blog",
+      "help": "Yordam va qo‘llab-quvvatlash",
+      "partner": "Hamkor bo‘lish",
+      "ride": "Biz bilan yuring",
+      "terms": "Foydalanish shartlari",
+      "refund": "Qaytarish va bekor qilish",
+      "privacy": "Maxfiylik siyosati",
+      "cookie": "Cookie siyosati"
+    },
+    "subscribe": "Pochtangizga maxsus takliflar kelsin",
+    "inputPlaceholder": "Email manzilingizni kiriting",
+    "subscribeBtn": "Obuna bo‘lish"
+  }
+}

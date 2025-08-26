@@ -1,0 +1,87 @@
+{
+  "hero": {
+    "title": "Are you starving?",
+    "subtitle": "Within a few clicks, find meals that are accessible near you",
+    "delivery": "Delivery",
+    "pickup": "Pickup",
+    "findFood": "Find Food",
+    "addressPlaceholder": "Enter Your Address"
+  },
+  "card": {
+    "title": "Greys Vage",
+    "remaining": "{{count}} Days Remaining"
+  },
+  "howItWorks": {
+    "title": "How does it work",
+    "steps": {
+      "select": {
+        "title": "Select location",
+        "desc": "Choose the location where your food will be delivered."
+      },
+      "order": {
+        "title": "Choose order",
+        "desc": "Check over hundreds of menus to pick your favorite food."
+      },
+      "pay": {
+        "title": "Pay advanced",
+        "desc": "It's quick, safe, and simple. Select several methods of payment."
+      },
+      "enjoy": {
+        "title": "Enjoy meals",
+        "desc": "Food is made and delivered directly to your home."
+      }
+    }
+  },
+  "popularItems": {
+    "title": "Popular items",
+    "orderNow": "Order Now"
+  },
+  "searchByFood": {
+    "title": "Search by Food",
+    "categories": {
+      "pizza": "Pizza",
+      "burger": "Burger",
+      "noodles": "Noodles",
+      "sub": "Sub-sandwich",
+      "chowmein": "Chowmein",
+      "steak": "Steak"
+    }
+  },
+  "features": {
+    "daily": "Daily Discounts",
+    "live": "Live Tracing",
+    "quick": "Quick Delivery"
+  },
+  "deals": {
+    "crispy": {
+      "title": "Best deals Crispy Sandwiches",
+      "desc": "Enjoy the large size of sandwiches. Complete perfect slice of sandwiches."
+    },
+    "chicken": {
+      "title": "Celebrate parties with Fried Chicken",
+      "desc": "Get the best fried chicken smeared with a lip smacking lemon chili flavor. Check out best deals for fried chicken."
+    },
+    "button": "Proceed to order"
+  },
+  "footer": {
+    "company": "Company",
+    "contact": "Contact",
+    "legal": "Legal",
+    "fields": {
+      "about": "About us",
+      "team": "Team",
+      "careers": "Careers",
+      "blog": "Blog",
+      "help": "Help & Support",
+      "partner": "Partner with us",
+      "ride": "Ride with us",
+      "terms": "Terms & Conditions",
+      "refund": "Refund & Cancellation",
+      "privacy": "Privacy Policy",
+      "cookie": "Cookie Policy"
+    },
+    "subscribe": "Receive exclusive offers in your mailbox",
+    "inputPlaceholder": "Enter Your email",
+    "subscribeBtn": "Subscribe"
+  }
+}
