@@ -5,7 +5,8 @@
         "delivery": "Доставка",
         "pickup": "Самовывоз",
         "findFood": "Найти еду",
-        "addressPlaceholder": "Введите ваш адрес"
+        "addressPlaceholder": "Введите ваш адрес",
+        "search" : "Поиск еды"
     },
     "card": {
         "title": "Greys Vage",
